@@ -1,7 +1,7 @@
 ### olá meu nome é Lucas Von Lohrmann, Eu sou estudante de ciências da computação e streamer na Twitch!
 
 - Eu estou cursando a faculdade de ciências da computação!
-- Estou aprendendo a programar em c, c++, python e html.
+- Estou aprendendo a programar em c, c++, python, html e css.
 - Qualquer coisa me contate pelas redes sociais! 
 - De vez enquando você pode me encontra estudando ou jogando algum jogo na Twitch!
 
@@ -17,6 +17,7 @@
   <img align="center" alt="lucas-c++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
   <img align="center" alt="lucas-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
 
 ##  
