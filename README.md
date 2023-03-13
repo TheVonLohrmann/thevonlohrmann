@@ -1,7 +1,9 @@
-### olá meu nome é Lucas Von Lohrmann, Eu sou estudante de engenharia de software e streamer na Twitch
+### olá meu nome é Lucas Von Lohrmann, Eu sou estudante de ciências da computação e streamer na Twitch!
 
-- eu atualmente estou aprendendo a programar em c, c++ e python.
-- qualquer coisa me contate pelas redes sociais! 
+- Eu estou cursando a faculdade de ciências da computação!
+- Estou aprendendo a programar em c, c++, python e html.
+- Qualquer coisa me contate pelas redes sociais! 
+- De vez enquando você pode me encontra estudando ou jogando algum jogo na Twitch!
 
 
 <div align="center">
