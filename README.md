@@ -6,8 +6,8 @@ Sobre mim:
 - 📚 Atualmente cursando a faculdade de Ciências da Computação
 
 Linguagens de Programação:
-- 💻 Aprendendo C, C++, Python
-- 🌐 Explorando HTML, CSS e JavaScript
+- 💻 Aprendendo C, JavaScript e Python
+- 🌐 Explorando HTML e CSS  
 
 Conecte-se comigo:
 - 📱 Me acompanhe pelas redes sociais
@@ -23,8 +23,8 @@ Fique à vontade para entrar em contato e acompanhar minhas aventuras na program
 </div>
 
 <div style="display: inline_block"><br>
+  <img align="center" alt="lucas-js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="lucas-c" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
-  <img align="center" alt="lucas-c++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
   <img align="center" alt="lucas-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
