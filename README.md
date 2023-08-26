@@ -1,10 +1,18 @@
-### olá meu nome é Lucas Von Lohrmann, Eu sou estudante de ciências da computação e streamer na Twitch!
+### Olá, eu sou Lucas Von Lohrmann!
 
-- Eu estou cursando a faculdade de ciências da computação!
-- Estou aprendendo a programar em c, c++, python, html e css.
-- Qualquer coisa me contate pelas redes sociais! 
-- De vez enquando você pode me encontra estudando ou jogando algum jogo na Twitch!
+Sobre mim:
+-👨‍🎓 Estudante de Ciências da Computação
+-🎮 Streamer na Twitch
+-📚 Atualmente cursando a faculdade de Ciências da Computação
+Linguagens de Programação:
+-💻 Aprendendo C, C++, Python
+-🌐 Explorando HTML, CSS e JavaScript
+Conecte-se comigo:
+-📱 Me acompanhe pelas redes sociais
+-🎮 Às vezes estou estudando ou jogando na Twitch
+Fique à vontade para entrar em contato e acompanhar minhas aventuras na programação e no mundo dos games!
 
+InserirlinksparaasredessociaiseparaoperfilnaTwitch
 
 <div align="center">
   <a href="https://github.com/TheVonLohrmann">
