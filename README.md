@@ -3,10 +3,11 @@
 Sobre mim:
 - 👨‍🎓 Estudante de Ciências da Computação
 - 🎮 Streamer na Twitch
-- 📚 Atualmente cursando a faculdade de Ciências da Computação
+- 📚 Estudante de Ciência da Computação na Universidade Católica de Brasília.
+- 💻 Apaixonado por tecnologia, desenvolvimento de software e jogos.
 
 Linguagens de Programação:
-- 💻 Aprendendo C, JavaScript e Python
+- 💻 C, JavaScript, Python, Java, SQL e Godot
 - 🌐 Explorando HTML e CSS  
 
 Conecte-se comigo:
