@@ -1,4 +1,5 @@
 
+
 # Olá, eu sou Lucas Von Lohrmann! 👋
 
 Sou estudante de **Ciência da Computação** na **Universidade Católica de Brasília**, desenvolvedor e apaixonado por tecnologia, jogos e criação de experiências interativas.
@@ -9,38 +10,50 @@ Atualmente estudo e desenvolvo projetos envolvendo **desenvolvimento de software
 
 ## 🚀 Sobre mim
 
-- 👨‍🎓 Estudante de Ciência da Computação  
-- 🎮 Desenvolvedor de jogos e entusiasta de game design  
-- 💻 Apaixonado por tecnologia, programação e software  
-- 🕹️ Streamer na Twitch nas horas vagas  
-- 🐭 Cofundador da **Strong Mouse Studio**  
-- 📚 Sempre aprendendo novas ferramentas, linguagens e formas de criar projetos melhores  
+- 👨‍🎓 Estudante de Ciência da Computação
+- 🎮 Desenvolvedor de jogos e entusiasta de game design
+- 💻 Apaixonado por tecnologia, programação e software
+- 🕹️ Streamer na Twitch nas horas vagas
+- 🐭 Cofundador da **Strong Mouse Studio**
+- 📚 Sempre aprendendo novas ferramentas, linguagens e formas de criar projetos melhores
 
 ---
 
 ## 🛠️ Tecnologias e Ferramentas
 
 ### Linguagens
+
 <div style="display: inline_block"><br>
-  <img align="center" alt="C" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
-  <img align="center" alt="CSharp" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
-  <img align="center" alt="JavaScript" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Python" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Java" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-  <img align="center" alt="SQL" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+  <img align="center" alt="Lucas-C" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
+  <img align="center" alt="Lucas-CSharp" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Lucas-JavaScript" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Lucas-Python" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Lucas-Java" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+  <img align="center" alt="Lucas-MySQL" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
 </div>
 
 <br>
 
-### Game Dev e Web
+### Game Dev, Web e Ferramentas
+
 <div style="display: inline_block"><br>
-  <img align="center" alt="Unity" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg">
-  <img align="center" alt="Godot" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg">
-  <img align="center" alt="HTML5" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS3" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Git" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-  <img align="center" alt="GitHub" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
+  <img align="center" alt="Lucas-Unity" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg">
+  <img align="center" alt="Lucas-Godot" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg">
+  <img align="center" alt="Lucas-HTML" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Lucas-CSS" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Lucas-Git" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+  <img align="center" alt="Lucas-GitHub" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
 </div>
+
+---
+
+## 🎮 Atualmente trabalhando em
+
+- Desenvolvimento de jogos 2D
+- Projetos em Unity e C#
+- Sistemas e ferramentas para jogos
+- Projetos da **Strong Mouse Studio**
+- Estudos em desenvolvimento web, software e game design
 
 ---
 
@@ -49,7 +62,7 @@ Atualmente estudo e desenvolvo projetos envolvendo **desenvolvimento de software
 <div align="center">
   <a href="https://github.com/TheVonLohrmann">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TheVonLohrmann&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheVonLohrmann&layout=compact&langs_count=7&theme=tokyonight"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheVonLohrmann&layout=compact&langs_count=8&theme=tokyonight"/>
   </a>
 </div>
 
@@ -76,10 +89,12 @@ Atualmente estudo e desenvolvo projetos envolvendo **desenvolvimento de software
 
 ## 🐍 Contribuições
 
-![Snake animation](https://github.com/TheVonLohrmann/TheVonLohrmann/blob/output/github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TheVonLohrmann/TheVonLohrmann/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TheVonLohrmann/TheVonLohrmann/output/github-contribution-grid-snake.svg">
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/TheVonLohrmann/TheVonLohrmann/output/github-contribution-grid-snake.svg">
+</picture>
 
 ---
 
 > “Criar é transformar caos em experiência.”
-```
-
